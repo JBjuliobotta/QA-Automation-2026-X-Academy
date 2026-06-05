@@ -1,3 +1,5 @@
+TABLERO DE TRELLO : https://trello.com/b/hxKoX6ao/actividad-n5-x-academy-julio-botta
+
 # 🎯 QA-Automation-2026-X-Academy - Curso de Automatización con Cypress
 
 ¡Bienvenido/a a mi repositorio de aprendizaje de QA Automation! Este espacio está destinado a almacenar todas las actividades, prácticas y tareas realizadas durante el curso de automatización de pruebas, utilizando **Cypress** como framework principal de pruebas y **Visual Studio Code** como entorno de desarrollo (IDE).
